@@ -41,6 +41,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/skin_care.png",
 "showDescription":true,
 "keepDefaultTitle":true,
 "productListAnimationConfig":null
@@ -61,6 +62,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/hair-care_0f104f12-aa58-48dd-ab5a-4df0df9a5ba7.png",
 "showDescription":true,
 "keepDefaultTitle":true,
 "productListAnimationConfig":null
@@ -81,6 +83,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/33_f04d475f-3948-4d32-9d73-6bd465afc6c2.png",
 "showDescription":true,
 "keepDefaultTitle":true,
 "productListAnimationConfig":null
@@ -101,6 +104,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/korean_beauty_icon_final_purple-min.png",
 "showDescription":true,
 "keepDefaultTitle":true,
 "productListAnimationConfig":null
@@ -121,6 +125,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/health_991e9c95-3c69-4395-9a13-4bcf675edaa5.png",
 "showDescription":true,
 "keepDefaultTitle":true,
 "productListAnimationConfig":null
@@ -141,6 +146,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/hair-dryer.png",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -161,6 +167,7 @@
 "productType":false,
 "originalColor":false,
 "backgroundColor":"fff9e8db",
+"backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/box.png",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -633,6 +640,7 @@
 "productType":false,
 "originalColor":true,
 "backgroundColor":"ffffffff",
+"backgroundImage":"https://btime.om/cdn/shop/files/anua_logo12.png",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -653,6 +661,7 @@
 "productType":false,
 "originalColor":true,
 "backgroundColor":"ffffffff",
+"backgroundImage":"https://btime.om/cdn/shop/files/The_Ordinary_logo-500x500.png",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -673,6 +682,7 @@
 "productType":false,
 "originalColor":true,
 "backgroundColor":"ffffffff",
+"backgroundImage":"https://btime.om/cdn/shop/files/skin1004_1_x100_1.svg",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -693,6 +703,7 @@
 "productType":false,
 "originalColor":true,
 "backgroundColor":"ffffffff",
+"backgroundImage":"https://btime.om/cdn/shop/files/Beauty_of_Joseon_logo.webp",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -713,6 +724,7 @@
 "productType":false,
 "originalColor":true,
 "backgroundColor":"ffffffff",
+"backgroundImage":"https://btime.om/cdn/shop/files/cosrx5001.png",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -733,6 +745,7 @@
 "productType":false,
 "originalColor":true,
 "backgroundColor":"ffffffff",
+"backgroundImage":"https://btime.om/cdn/shop/files/axis-y_logo_540x_1.svg",
 "showDescription":true,
 "keepDefaultTitle":false,
 "productListAnimationConfig":null
@@ -1036,7 +1049,7 @@
 "marginLeft":0,
 "marginRight":0,
 "bottomBarStyle":"static",
-"alwaysShowTabBar":false,
+"alwaysShowTabBar":true,
 "TabBarIndicator":{
 "height":1,
 "tabPosition":"bottom",
@@ -1193,7 +1206,7 @@
 "icon":"assets/icons/tabs/icon-heartthin.png",
 "label":"Wishlist",
 "layout":"wishlist",
-"fullscreen":true,
+"fullscreen":false,
 "showOriginalColor":false
 },
 {
@@ -1202,7 +1215,7 @@
 "icon":"assets/icons/tabs/icon-user.png",
 "label":"Account",
 "defaultTab":false,
-"fullscreen":true,
+"fullscreen":false,
 "showOriginalColor":false,
 "settings":["order",
 "wallet",
