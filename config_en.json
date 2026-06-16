@@ -452,9 +452,9 @@
 "enableBackground":false,
 "boxShadow":{"blurRadius":14.0,"colorOpacity":0.09,"spreadRadius":0.0,"x":0.0,"y":6.0},
 "items":[
-{"image":"https://app.btime.om/api/brands/card/en/anua.svg","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/anua"},
-{"image":"https://app.btime.om/api/brands/card/en/the-ordinary.svg","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/the-ordinary"},
-{"image":"https://app.btime.om/api/brands/card/en/skin1004.svg","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/skin1004"}
+{"image":"https://app.btime.om/api/brands/card/anua.svg?locale=en","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/anua"},
+{"image":"https://app.btime.om/api/brands/card/the-ordinary.svg?locale=en","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/the-ordinary"},
+{"image":"https://app.btime.om/api/brands/card/skin1004.svg?locale=en","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/skin1004"}
 ]
 },
 {
@@ -472,9 +472,9 @@
 "enableBackground":false,
 "boxShadow":{"blurRadius":14.0,"colorOpacity":0.09,"spreadRadius":0.0,"x":0.0,"y":6.0},
 "items":[
-{"image":"https://app.btime.om/api/brands/card/en/beauty-of-joseon.svg","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/beauty-of-joseon"},
-{"image":"https://app.btime.om/api/brands/card/en/cosrx.svg","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/cosrx"},
-{"image":"https://app.btime.om/api/brands/card/en/axis-y.svg","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/axis-y"}
+{"image":"https://app.btime.om/api/brands/card/beauty-of-joseon.svg?locale=en","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/beauty-of-joseon"},
+{"image":"https://app.btime.om/api/brands/card/cosrx.svg?locale=en","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/cosrx"},
+{"image":"https://app.btime.om/api/brands/card/axis-y.svg?locale=en","padding":4,"radius":18,"url_launch":"https://app.btime.om/api/brands/open/axis-y"}
 ]
 },
 {
