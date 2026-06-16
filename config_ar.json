@@ -452,9 +452,9 @@
 "enableBackground":false,
 "boxShadow":{"blurRadius":14.0,"colorOpacity":0.09,"spreadRadius":0.0,"x":0.0,"y":6.0},
 "items":[
-{"image":"https://btime.om/cdn/shop/files/Medicube_logo.png","backgroundImage":"https://btime.om/cdn/shop/files/Medicube_logo.png","padding":8,"radius":18,"title":"Medicube","description":null,"category":"gid://shopify/Collection/303496888403","layout":"list","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
-{"image":"https://btime.om/cdn/shop/files/Anua_logo_png.png","backgroundImage":"https://btime.om/cdn/shop/files/Anua_logo_png.png","padding":8,"radius":18,"title":"ANUA","description":null,"category":"gid://shopify/Collection/286628839507","layout":"list","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
-{"image":"https://btime.om/cdn/shop/files/Eucerin-logo.png","backgroundImage":"https://btime.om/cdn/shop/files/Eucerin-logo.png","padding":8,"radius":18,"title":"Eucerin","description":null,"category":"gid://shopify/Collection/293856018515","layout":"list","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"}
+{"image":"https://btime.om/cdn/shop/files/Medicube_logo.png","backgroundImage":"https://btime.om/cdn/shop/files/Medicube_logo.png","padding":8,"radius":18,"title":"Medicube","description":null,"category":"gid://shopify/Collection/303496888403","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
+{"image":"https://btime.om/cdn/shop/files/Anua_logo_png.png","backgroundImage":"https://btime.om/cdn/shop/files/Anua_logo_png.png","padding":8,"radius":18,"title":"ANUA","description":null,"category":"gid://shopify/Collection/286628839507","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
+{"image":"https://btime.om/cdn/shop/files/Eucerin-logo.png","backgroundImage":"https://btime.om/cdn/shop/files/Eucerin-logo.png","padding":8,"radius":18,"title":"Eucerin","description":null,"category":"gid://shopify/Collection/293856018515","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"}
 ]
 },
 {
@@ -472,9 +472,9 @@
 "enableBackground":false,
 "boxShadow":{"blurRadius":14.0,"colorOpacity":0.09,"spreadRadius":0.0,"x":0.0,"y":6.0},
 "items":[
-{"image":"https://btime.om/cdn/shop/files/La-Roche-Posay-Logo.png","backgroundImage":"https://btime.om/cdn/shop/files/La-Roche-Posay-Logo.png","padding":8,"radius":18,"title":"La Roche-Posay","description":null,"category":"gid://shopify/Collection/293855854675","layout":"list","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
-{"image":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/SKIN1004-Logo.png","backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/SKIN1004-Logo.png","padding":8,"radius":18,"title":"SKIN1004","description":null,"category":"gid://shopify/Collection/293855789139","layout":"list","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
-{"image":"https://btime.om/cdn/shop/files/dr._althea-logo_1.png","backgroundImage":"https://btime.om/cdn/shop/files/dr._althea-logo_1.png","padding":8,"radius":18,"title":"Dr.Althea","description":null,"category":"gid://shopify/Collection/311676338259","layout":"list","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"}
+{"image":"https://btime.om/cdn/shop/files/La-Roche-Posay-Logo.png","backgroundImage":"https://btime.om/cdn/shop/files/La-Roche-Posay-Logo.png","padding":8,"radius":18,"title":"La Roche-Posay","description":null,"category":"gid://shopify/Collection/293855854675","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
+{"image":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/SKIN1004-Logo.png","backgroundImage":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/SKIN1004-Logo.png","padding":8,"radius":18,"title":"SKIN1004","description":null,"category":"gid://shopify/Collection/293855789139","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"},
+{"image":"https://btime.om/cdn/shop/files/dr._althea-logo_1.png","backgroundImage":"https://btime.om/cdn/shop/files/dr._althea-logo_1.png","padding":8,"radius":18,"title":"Dr.Althea","description":null,"category":"gid://shopify/Collection/311676338259","showDescription":true,"keepDefaultTitle":false,"orderby":"date","order":"desc"}
 ]
 },
 {
