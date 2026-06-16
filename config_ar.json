@@ -452,9 +452,9 @@
 "enableBackground":false,
 "boxShadow":{"blurRadius":14.0,"colorOpacity":0.09,"spreadRadius":0.0,"x":0.0,"y":6.0},
 "items":[
-{"image":"https://btime.om/cdn/shop/files/anua_logo12.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=ANUA"},
-{"image":"https://btime.om/cdn/shop/files/The_Ordinary_logo-500x500.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=The%20Ordinary"},
-{"image":"https://btime.om/cdn/shop/files/skin1004_1_x100_1.svg","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=SKIN1004"}
+{"image":"https://btime.om/cdn/shop/files/Medicube_logo.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=Medicube"},
+{"image":"https://btime.om/cdn/shop/files/Anua_logo_png.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=ANUA"},
+{"image":"https://btime.om/cdn/shop/files/Eucerin-logo.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=Eucerin"}
 ]
 },
 {
@@ -472,9 +472,9 @@
 "enableBackground":false,
 "boxShadow":{"blurRadius":14.0,"colorOpacity":0.09,"spreadRadius":0.0,"x":0.0,"y":6.0},
 "items":[
-{"image":"https://btime.om/cdn/shop/files/Beauty_of_Joseon_logo.webp","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=Beauty%20of%20Joseon"},
-{"image":"https://btime.om/cdn/shop/files/cosrx5001.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=COSRX"},
-{"image":"https://btime.om/cdn/shop/files/axis-y_logo_540x_1.svg","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=AXIS-Y"}
+{"image":"https://btime.om/cdn/shop/files/La-Roche-Posay-Logo.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=La%20Roche-Posay"},
+{"image":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/SKIN1004-Logo.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=SKIN1004"},
+{"image":"https://btime.om/cdn/shop/files/dr._althea-logo_1.png","padding":8,"radius":18,"url_launch":"https://app.btime.om/collections/vendors?q=Dr.Althea"}
 ]
 },
 {
